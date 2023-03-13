@@ -1,8 +1,8 @@
-.gradle
+.gradle/*
 build/generated/*
 build/tmp/*
 !**/lib/myname.jar
 gradle/*
 !**/src/main/**/build/
 !**/src/test/**/build/
-.idea/
+/.idea/*
